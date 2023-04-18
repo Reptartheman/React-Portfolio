@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 import Header from './Header.css';
 
-
-export default function Header() {
+export default function PageTop() {
     return (
         <header className='header'>
             <h1>
