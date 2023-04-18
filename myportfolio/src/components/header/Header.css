@@ -1,0 +1,9 @@
+header h1{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    font-family: var(--fontgroup);
+    background-color: var(--sectionsbackground);
+    border: var(--border);
+    border-radius: 7px;
+}
