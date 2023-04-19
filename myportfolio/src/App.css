@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Signika&display=swap');
+
+
 :root {
     --sectionsbackground: gainsboro;
     --border: 3px solid rgb(228, 117, 74); 
-    --fontgroup:'Courier New', Courier, monospace;
+    --fontgroup: 'Signika', sans-serif;
 }
 
 
