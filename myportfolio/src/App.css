@@ -1,0 +1,14 @@
+:root {
+    --sectionsbackground: gainsboro;
+    --border: 3px solid rgb(228, 117, 74); 
+    --fontgroup:'Courier New', Courier, monospace;
+}
+
+
+
+
+body{
+    background-color: rgb(240, 225, 139);
+    margin-left: 40px;
+    margin-right: 40px;
+}
