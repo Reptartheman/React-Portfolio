@@ -1,31 +1,31 @@
 import React, { useState } from "react";
-import Header from './Header.css';
-import bassGuitar from '../../assets/bass-guitar.png'
-import Speakers from '../../assets/speaker.png'
-import Mixer from '../../assets/mixing.png'
-import 'bootstrap/dist/css/bootstrap.min.css';
-
+import header from "../header/Header.css";
+import bassGuitar from "../../assets/bass-guitar.png";
+import Speakers from "../../assets/speaker.png";
+import Mixer from "../../assets/mixing.png";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function PageTop() {
-    return (
-        <header className='header'>
-        <nav id="speakers">
-            <a href="#About-Me"> <button id="navbuttons">About Me</button></a>
-                <a href="#Links"> <button id="navbuttons">Links to work</button></a>
-                <a href="#Contact"> <button id="navbuttons">Get in touch</button></a>
-        </nav>
-        <figure id="speakers">
-            <img src={Speakers} alt="speaker" width="300" height="300"></img>
-            <img src={Mixer} alt="mixingboard" width="200" height="200"></img>
-            <img src={Speakers} alt="speaker" width="300" height="300"></img>
-        </figure>
-            <h1>
-            <img src={bassGuitar} alt="bass-guitar" width="50" height="50"></img>
-            Jeff Moro: Web Developer, Audio Engineer & Musician.
-            <img src={bassGuitar} alt="bass-guitar" width="50" height="50"></img>
-            </h1>
+  return (
+    <header className="header">
 
 
-        </header>
-    )
+      <h1 id="speakers">
+        <img src={Speakers} alt="bass-guitar" width="75" height="75"></img>
+        Jeff Moro: Web Developer, Audio Engineer & Musician.
+        <img src={Speakers} alt="bass-guitar" width="75" height="75"></img>
+      </h1>
+      <div class="btn-group" role="group" aria-label="Basic outlined example">
+        <button type="button" class="btn btn-outline-primary">
+          Left
+        </button>
+        <button type="button" class="btn btn-outline-primary">
+          Middle
+        </button>
+        <button type="button" class="btn btn-outline-primary">
+          Right
+        </button>
+      </div>
+    </header>
+  );
 }

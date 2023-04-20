@@ -1,7 +1,7 @@
-import React, { useState } from "react";
+import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ImageOfMe from '../../assets/IMG_3432.jpeg'
-import about from '../about/about.css'
+import '../about/about.css'
 
 export default function About() {
 return (
