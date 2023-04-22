@@ -9,6 +9,7 @@ section{
 
 section h1 {
     text-align: center;
+    margin-bottom: 20px;
 }
 
 
@@ -44,6 +45,7 @@ section h1 {
     width: 10em;
     cursor: pointer;
     border-radius: 8px;
+    margin-top: 10px;
 }
 
 #webappbuttons:hover{

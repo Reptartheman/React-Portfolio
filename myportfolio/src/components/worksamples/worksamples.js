@@ -7,11 +7,12 @@ import IconTwo from '../../assets/pie-chart.png'
 import IconThree from '../../assets/web-design.png'
 import IconFour from '../../assets/cloud-network.png'
 import IconFive from '../../assets/newspaper.png'
+import IconSix from '../../assets/list.png'
 
 export default function WorkSamples() {
     return (
         <section>
-            <h1 className="AppsTitle">My Web Apps</h1>
+            <h1>My Web Apps</h1>
             <div className="parent">
             <a href="https://reptartheman.github.io/Challenge-5-Workday-planner/" target={"_blank"}>
                 <figure className="grid-item">
@@ -27,7 +28,7 @@ export default function WorkSamples() {
             </a>
             <a href="https://thawing-plateau-90815.herokuapp.com/" target={"_blank"}>
                 <figure className="grid-item">
-                        <img src={IconTwo} alt="statistics" width="100" height="100"></img>
+                        <img src={IconSix} alt="statistics" width="100" height="100"></img>
                         <figcaption><button id="webappbuttons"> Note Taker</button></figcaption>
                 </figure> 
             </a>
