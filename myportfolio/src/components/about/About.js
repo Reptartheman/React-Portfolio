@@ -2,6 +2,7 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ImageOfMe from '../../assets/IMG_3432.jpeg'
 import '../about/about.css'
+import '../../App.css'
 
 export default function About() {
 return (

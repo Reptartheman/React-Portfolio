@@ -1,5 +1,5 @@
 article{
-    background-color: var(--sectionsbackground);
+    background-color:  var(--secondary-color);
     border: var(--border);
     font: var(--fontgroup);
     border-radius: 7px;
@@ -10,7 +10,7 @@ article h1{
     font-size: 65px;
     font-family: var(--fontgroup);
     border: 3px;
-    border-color: rgb(228, 117, 74);
+    border-color: var(--border);
 }
 
 article div{
