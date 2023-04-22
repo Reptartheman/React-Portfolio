@@ -3,6 +3,7 @@ import './App.css';
 import PageTop from './components/header/Header';
 import About from './components/about/About';
 import Footer from './components/footer/footer'
+import WorkSamples from './components/worksamples/worksamples';
 
 
 function App() {
@@ -10,9 +11,10 @@ function App() {
   <>
     <PageTop />
     
-    <body>
+    <main>
       <About />
-    </body>
+      <WorkSamples />
+    </main>
 
     <Footer />
 

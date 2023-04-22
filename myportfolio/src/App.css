@@ -1,20 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Signika&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Signika&display=swap");
 
 :root {
-    --sectionsbackground: gainsboro;
-    --border: 3px solid #407ba5; 
-    --fontgroup: 'Signika', sans-serif;
-    --primary-color: #2d5069;  /* medium blue */
-    --secondary-color: #d1cdcf;  /* light gray */
-    --text-color: #333;  /* dark gray */
-    --accent-color: #7dc5a3;  /* light green */
+  --border: 3px solid #407ba5;
+  --fontgroup: "Signika", sans-serif;
+  --primary-color: #2d5069; /* medium blue */
+  --secondary-color: #d1cdcf; /* light gray */
+  --text-color: #333; /* dark gray */
+  --accent-color: #7dc5a3; /* light green */
 }
 
 
-
-body{
-    background-color: var(--accent-color);
-    margin-left: 40px;
-    margin-right: 40px;
+html {
+background-color: var(--primary-color);
+  margin-left: 60px;
+  margin-right: 60px;
 }
+

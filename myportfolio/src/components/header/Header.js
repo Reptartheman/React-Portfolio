@@ -1,8 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 import header from "../header/Header.css";
-import bassGuitar from "../../assets/bass-guitar.png";
 import Speakers from "../../assets/speaker.png";
-import Mixer from "../../assets/mixing.png";
 import "bootstrap/dist/css/bootstrap.min.css";
 import '../../App.css'
 

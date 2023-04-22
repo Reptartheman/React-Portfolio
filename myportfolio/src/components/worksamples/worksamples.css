@@ -1,0 +1,53 @@
+section{
+    padding-top: 2rem;
+    font-family: var(--fontgroup);
+    background-color: var(--secondary-color);
+    border-top: 0px;
+    border: var(--border);
+    border-radius: 7px;
+}
+
+section h1 {
+    text-align: center;
+}
+
+
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 20px;
+    justify-items: center;
+    align-items: center;
+}
+
+.grid-item {
+    background-color: #fff;
+    border: var(--border);
+    padding: 20px;
+    text-align: center;
+    border-radius: 7px;
+  }
+
+#webappbuttons{
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all .35s ease-out;
+    justify-content: center;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    font-size: large;
+    font-family: var(--fontgroup);
+    font-weight: bolder;
+    width: 10em;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+#webappbuttons:hover{
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+
+}

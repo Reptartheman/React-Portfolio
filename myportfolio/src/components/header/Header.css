@@ -1,49 +1,12 @@
-
-header h1{
-    display: flex;
-    justify-content:space-between;
-    align-items: center;
-    font-family: var(--fontgroup);
-    background-color: gainsboro;
-    border: 3px;
-    border-color: var(--border);
-    border-radius: 7px;
-}
-
-#speakers{
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-evenly;
-    align-items: center;
-    
+header h1 {
+  margin-top: 0.25em;
+  background-color: var(--secondary-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--fontgroup);
+  border: var(--border);
+  border-radius: 7px;
 }
 
 
-nav {
-    display: flex;
-    justify-content: space-around;
-    font-family: var(--fontgroup);
-    background-color: var(--sectionsbackground);
-    border: 3px solid rgb(228, 117, 74);
-    border-bottom: 0px;
-    border-radius: 7px;
-}
-#navbuttons{
-    position: relative;
-    overflow: hidden;
-    cursor: pointer;
-    transition: all .35s ease-out;
-    justify-content: center;
-    background-color: rgb(240, 225, 139);
-    color: rgb(176, 37, 16);
-    font-size: x-large;
-    font-family: var(--fontgroup);
-    font-weight: bolder;
-    width: 10em;
-    cursor: pointer;
-
-}
-#navbuttons:hover{
-    background-color: rgb(176, 37, 16);
-    color: rgb(240, 225, 139);
-}
