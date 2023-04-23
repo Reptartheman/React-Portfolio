@@ -4,9 +4,11 @@ import '../contact/contact.css'
 
 
 export default function Contact () {
+
+
     return (
 <section>
-<div class="container">  
+<div className="container">  
   <form id="contact" action="" method="post">
     <h3>Quick Contact</h3>
     <fieldset>

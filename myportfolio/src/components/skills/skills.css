@@ -1,0 +1,62 @@
+.sectioncontainer {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+
+.skillsheader {
+    text-decoration: underline;
+}
+
+
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-rows: 1fr 0fr 1fr;
+    grid-gap: 20px;
+    justify-items: center;
+    align-items: center;
+}
+
+.grid-item {
+    background-color: #fff;
+    border: var(--border);
+    padding: 20px;
+    text-align: center;
+    border-radius: 7px;
+  }
+
+#education {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#downloadButton{
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all .35s ease-out;
+    justify-content: center;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    font-size: large;
+    font-family: var(--fontgroup);
+    font-weight: bolder;
+    width: 10em;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+#downloadbutton{
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+
+}
