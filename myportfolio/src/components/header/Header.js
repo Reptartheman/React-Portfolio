@@ -11,7 +11,7 @@ export default function PageTop() {
 
       <h1 id="speakers">
         <img src={Speakers} alt="bass-guitar" width="75" height="75"></img>
-        Jeff Moro: Web Developer, Audio Engineer & Musician.
+        Jeff Moro: Full Stack Web Developer, Audio Engineer & Musician.
         <img src={Speakers} alt="bass-guitar" width="75" height="75"></img>
         <div class="btn-group" role="group" aria-label="Basic outlined example">
         <button type="button" class="btn btn-outline-primary">
