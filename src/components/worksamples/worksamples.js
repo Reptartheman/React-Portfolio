@@ -13,7 +13,7 @@ export default function WorkSamples() {
     return (
         <section>
             <h1>My Web Apps</h1>
-            <div className="parent">
+            <div className="gridparent">
             <a href="https://reptartheman.github.io/Challenge-5-Workday-planner/" target={"_blank"}>
                 <figure className="grid-item">
                         <img src={IconFive} alt="statistics" width="100" height="100"></img>

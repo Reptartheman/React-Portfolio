@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.712f9abc.css",
+    "main.js": "/static/js/main.e1ea3a4f.js",
+    "static/media/IMG_3432.jpeg": "/static/media/IMG_3432.4a33aadb13a1bcdda14a.jpeg",
+    "static/media/QR wlink.png": "/static/media/QR wlink.628346a87eaed0176e8a.png",
+    "static/media/Jeff Moro Resume.docx.pdf": "/static/media/Jeff Moro Resume.docx.bf579a11d9fe403b3c35.pdf",
+    "static/media/web-design.png": "/static/media/web-design.c82da9599fd8eb75fe86.png",
+    "static/media/cloud-network.png": "/static/media/cloud-network.635a54d68451e5e8fc85.png",
+    "static/media/newspaper.png": "/static/media/newspaper.299a1513a4f041ee458a.png",
+    "static/media/list.png": "/static/media/list.25d15cdc4a360c8872a9.png",
+    "static/media/pie-chart.png": "/static/media/pie-chart.0d2c1989c7aa16a2baa6.png",
+    "static/media/user.png": "/static/media/user.287d9fad7d494584b860.png",
+    "index.html": "/index.html",
+    "main.712f9abc.css.map": "/static/css/main.712f9abc.css.map",
+    "main.e1ea3a4f.js.map": "/static/js/main.e1ea3a4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.712f9abc.css",
+    "static/js/main.e1ea3a4f.js"
+  ]
+}

@@ -1,5 +1,7 @@
 section{
     padding-top: 2rem;
+    padding-left: 100px;
+    padding-right: 100px;
     font-family: var(--fontgroup);
     background-color: var(--secondary-color);
     border-top: 0px;
@@ -14,11 +16,12 @@ section h1 {
 
 
 
-.parent {
+.gridparent {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    grid-template-rows: repeat(2, 1fr);
-    grid-gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 40px;
+    grid-row-gap: 40px;
     justify-items: center;
     align-items: center;
 }
