@@ -15,11 +15,19 @@ return (
         and is currently learning to code in various programming languages. Jeff holds a Bachelor's Degree in
         Audio and Music Production from Western Connecticut State University and
         during his time there, he was presented with many opportunities to play/study with some renowned
-        musicians within the Jazz niche.
+        musicians within the Jazz niche. 
         Some of those musicians are Gerald Clayton, Jeff ‘Tain’ Watts, Curtis Fuller, Renee Rosnes, John Patitucci,
         Joe Lovano, Jimmy Greene, and many more.
         Jeff has been in/led many bands across different genres. From 2016-2018 he led a 9-piece Jazz Fusion
         group named ‘The Recess Bureau.’
+        <br />
+   
+        <br />
+        He also has a Master's degree in Music Education from the University of 
+        Bridgeport, and is currently seeking a certificate from the UConn School of Engineering in Full 
+        Stack Development.
+
+
     </p>
 </div>
 </article>
