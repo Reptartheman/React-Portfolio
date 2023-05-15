@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.712f9abc.css",
+    "main.js": "/React-Portfolio/static/js/main.3207ef75.js",
+    "static/media/IMG_3432.jpeg": "/React-Portfolio/static/media/IMG_3432.4a33aadb13a1bcdda14a.jpeg",
+    "static/media/QR wlink.png": "/React-Portfolio/static/media/QR wlink.628346a87eaed0176e8a.png",
+    "static/media/Jeff Moro Resume.docx.pdf": "/React-Portfolio/static/media/Jeff Moro Resume.docx.bf579a11d9fe403b3c35.pdf",
+    "static/media/web-design.png": "/React-Portfolio/static/media/web-design.c82da9599fd8eb75fe86.png",
+    "static/media/cloud-network.png": "/React-Portfolio/static/media/cloud-network.635a54d68451e5e8fc85.png",
+    "static/media/newspaper.png": "/React-Portfolio/static/media/newspaper.299a1513a4f041ee458a.png",
+    "static/media/list.png": "/React-Portfolio/static/media/list.25d15cdc4a360c8872a9.png",
+    "static/media/pie-chart.png": "/React-Portfolio/static/media/pie-chart.0d2c1989c7aa16a2baa6.png",
+    "static/media/user.png": "/React-Portfolio/static/media/user.287d9fad7d494584b860.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.712f9abc.css.map": "/React-Portfolio/static/css/main.712f9abc.css.map",
+    "main.3207ef75.js.map": "/React-Portfolio/static/js/main.3207ef75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.712f9abc.css",
+    "static/js/main.3207ef75.js"
+  ]
+}

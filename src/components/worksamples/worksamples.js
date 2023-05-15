@@ -32,10 +32,10 @@ export default function WorkSamples() {
                         <figcaption><button id="webappbuttons"> Note Taker</button></figcaption>
                 </figure> 
             </a>
-            <a href="https://gist.github.com/Reptartheman/48ee82887c28f415a7baefae419959d9"target={"_blank"}>
+            <a href="https://doggydojo.herokuapp.com/"target={"_blank"}>
                         <figure className="grid-item">
                             <img src={IconThree} alt="statistics" width="100" height="100"></img>
-                            <figcaption><button id="webappbuttons"> RegEx Gist</button></figcaption>
+                            <figcaption><button id="webappbuttons"> DoggyDojo</button></figcaption>
                         </figure>
             </a>
             <a href="https://github.com/Reptartheman/Let-s-make-a-team"target={"_blank"}>
