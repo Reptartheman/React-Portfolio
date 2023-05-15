@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.30e19510.css",
-    "main.js": "/React-Portfolio/static/js/main.42397f27.js",
+    "main.js": "/React-Portfolio/static/js/main.d79be18e.js",
     "static/media/IMG_3432.jpeg": "/React-Portfolio/static/media/IMG_3432.4a33aadb13a1bcdda14a.jpeg",
     "static/media/QR wlink.png": "/React-Portfolio/static/media/QR wlink.628346a87eaed0176e8a.png",
     "static/media/Jeff Moro Resume.docx.pdf": "/React-Portfolio/static/media/Jeff Moro Resume.docx.bf579a11d9fe403b3c35.pdf",
@@ -13,10 +13,10 @@
     "static/media/user.png": "/React-Portfolio/static/media/user.287d9fad7d494584b860.png",
     "index.html": "/React-Portfolio/index.html",
     "main.30e19510.css.map": "/React-Portfolio/static/css/main.30e19510.css.map",
-    "main.42397f27.js.map": "/React-Portfolio/static/js/main.42397f27.js.map"
+    "main.d79be18e.js.map": "/React-Portfolio/static/js/main.d79be18e.js.map"
   },
   "entrypoints": [
     "static/css/main.30e19510.css",
-    "static/js/main.42397f27.js"
+    "static/js/main.d79be18e.js"
   ]
 }
